@@ -1,0 +1,15 @@
+.message {
+  padding: 2px;
+  margin: 10px;
+  width: fit-content;
+}
+.message_user {
+  margin-left: auto;
+}
+.message_userCard {
+  background-color: dodgerblue !important;
+  color: #fff !important;
+}
+.message_guestCard {
+  background-color: gainsboro !important;
+}
